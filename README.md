@@ -1,6 +1,7 @@
 # Construction Material Prices — Synthetic Data
 
 [![CI](https://github.com/Pranit-satnurkar/Construction-Price-Tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/Pranit-satnurkar/Construction-Price-Tracker/actions)
+[![Release](https://img.shields.io/github/v/tag/Pranit-satnurkar/Construction-Price-Tracker?label=release&sort=semver)](https://github.com/Pranit-satnurkar/Construction-Price-Tracker/releases/latest)
 
 This repository contains a small utility to synthesize daily construction material
 prices for testing and demonstration.
